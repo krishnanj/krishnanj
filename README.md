@@ -1,7 +1,7 @@
-# Hey, I'm Jeyashree! <img src="https://tenor.com/view/death-note-llawliet-serious-stare-sit-gif-17446344" width="50">
+# Hey, I'm Jeyashree! <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
 
 
-<img src="https://media.giphy.com/media/fw8uZriJW4TlhmZnUj/giphy.gif" width="1000">
+<img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
 
 ![](https://komarev.com/ghpvc/?username=krishnanj)
 [![Years Badge](https://badges.pufler.dev/years/krishnanj)](https://badges.pufler.dev)
