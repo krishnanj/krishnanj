@@ -1,4 +1,4 @@
-# Hey, I'm Jeyashree! <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
+# Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
 
 
 <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
