@@ -19,8 +19,9 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 
 ## Languages and Tools
 
-<!--- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) --->
-![](https://img.shields.io/badge/<OS>-<Linux>-<black>)
+![](https://img.shields.io/badge/Linux-black) ![](https://img.shields.io/badge/Bash-black) ![](https://img.shields.io/badge/C++-black)
+![](https://img.shields.io/badge/Python-black) ![](https://img.shields.io/badge/Git-black) ![](https://img.shields.io/badge/HTML-black)
+![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/CSS-black) 
 
 ## Github Stats
 
