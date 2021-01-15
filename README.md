@@ -5,7 +5,9 @@
 <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
 
 <!---- general intro--->
-I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [Github](https://github.com/krishnanj) or [Linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). BTW, for better experience, view my page in Github dark mode 🤗
+I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [Github](https://github.com/krishnanj) or [Linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). 
+
+BTW, for better experience, view my page in Github dark mode 🤗. This page was largely inspired by [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme). I borrowed the networks GIF above from [GIPHY](https://media.giphy.com) 😎.
 
 <!--- expertise --->
 ## Scientific Expertise
