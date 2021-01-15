@@ -21,7 +21,7 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 
 ![](https://img.shields.io/badge/Linux-black) ![](https://img.shields.io/badge/Bash-black) ![](https://img.shields.io/badge/C++-black)
 ![](https://img.shields.io/badge/Python-black) ![](https://img.shields.io/badge/Git-black) ![](https://img.shields.io/badge/HTML-black)
-![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/CSS-black) 
+![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/CSS-black) ![](https://img.shields.io/badge/MPI-black) 
 
 ## Github Stats
 
