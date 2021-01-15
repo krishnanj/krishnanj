@@ -1,4 +1,7 @@
-# Hi there, Thanks for visiting my github page! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hey, I'm Jeyashree! <img src="https://tenor.com/view/death-note-llawliet-serious-stare-sit-gif-17446344" width="50">
+
+
+<img src="https://media.giphy.com/media/fw8uZriJW4TlhmZnUj/giphy.gif" width="1000">
 
 ![](https://komarev.com/ghpvc/?username=krishnanj)
 [![Years Badge](https://badges.pufler.dev/years/krishnanj)](https://badges.pufler.dev)
@@ -11,7 +14,7 @@
 
 
 
-I am Jeyashree Krishnan, .....
+I am Jeyashree Krishnan, thanks for visiting my page!
 
 Social media
 
