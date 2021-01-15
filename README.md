@@ -20,13 +20,11 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 
 ## Scientific Expertise
 
-![](https://img.shields.io/badge/Computational-Sciences-blue) 
-![](https://img.shields.io/badge/Complex-Networks-blue) 
-![](https://img.shields.io/badge/Systems-Biology-blue) 
-![](https://img.shields.io/badge/Machine-Learning-blue)
-
-
-
+![](https://img.shields.io/badge/Computational-Sciences-blue)    
+![](https://img.shields.io/badge/Complex-Networks-blue)     
+![](https://img.shields.io/badge/Systems-Biology-blue)     
+![](https://img.shields.io/badge/Machine-Learning-blue)    
+ 
 
 ## Languages and Tools
 
