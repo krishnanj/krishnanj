@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
 
 <!---- general intro--->
-I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [Github](https://github.com/krishnanj) or [Linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). 
+I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [Github](https://github.com/krishnanj) or [Linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). BTW, for better experience, view my page in Github dark mode 🤗
 
 <!--- expertise --->
 ## Scientific Expertise
@@ -18,8 +18,8 @@ I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am
 <!---- skills ---->
 ## Languages and Tools
 
-![](https://img.shields.io/badge/Linux-black) ![](https://img.shields.io/badge/Bash-black) ![](https://img.shields.io/badge/C++-black)
-![](https://img.shields.io/badge/Python-black) ![](https://img.shields.io/badge/R-black) ![](https://img.shields.io/badge/Git-black) ![](https://img.shields.io/badge/HTML-black) ![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/CSS-black) ![](https://img.shields.io/badge/MPI-black) 
+![](https://img.shields.io/badge/Linux-blue) ![](https://img.shields.io/badge/Bash-blue) ![](https://img.shields.io/badge/C++-blue)
+![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/R-blue) ![](https://img.shields.io/badge/Git-blue) ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/Javascript-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/MPI-blue) 
 
 <!--- some stats --->
 ## Github Stats
