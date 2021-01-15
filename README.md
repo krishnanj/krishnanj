@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
 
 <!---- general intro--->
-I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [github](https://github.com/krishnanj) or [linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). 
+I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [Github](https://github.com/krishnanj) or [Linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). 
 
 <!--- expertise --->
 ## Scientific Expertise
@@ -35,7 +35,7 @@ I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am
 ![](https://komarev.com/ghpvc/?username=krishnanj) ![](https://badges.pufler.dev/years/krishnanj) ![](https://badges.pufler.dev/repos/krishnanj)
 ![](https://badges.pufler.dev/commits/yearly/krishnanj)
 
-
+<!--- add descriptions of your repos and repos you like here --->
 
 
 
