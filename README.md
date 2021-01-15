@@ -1,10 +1,9 @@
-# Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
+# Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;  <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
 
 
 <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
 
-![](https://komarev.com/ghpvc/?username=krishnanj)
-[![Years Badge](https://badges.pufler.dev/years/krishnanj)](https://badges.pufler.dev)
+
 
 
 
@@ -24,6 +23,9 @@ Social media
 
 
 ## Github Stats
+
+![](https://komarev.com/ghpvc/?username=krishnanj)
+[![Years Badge](https://badges.pufler.dev/years/krishnanj)](https://badges.pufler.dev)
 
 ![Jeyashree's github stats](https://github-readme-stats.vercel.app/api?username=krishnanj&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
