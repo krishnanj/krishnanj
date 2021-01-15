@@ -1,5 +1,4 @@
 <!--- header -->
-
 # Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
 
 <!---- network gif --->
@@ -18,6 +17,7 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 ## Scientific Expertise
 
 ![](https://img.shields.io/badge/Computational-Sciences-blue)    
@@ -25,12 +25,10 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 ![](https://img.shields.io/badge/Systems-Biology-blue)     
 ![](https://img.shields.io/badge/Machine-Learning-blue)    
  
-
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/Linux-black) ![](https://img.shields.io/badge/Bash-black) ![](https://img.shields.io/badge/C++-black)
-![](https://img.shields.io/badge/Python-black) ![](https://img.shields.io/badge/Git-black) ![](https://img.shields.io/badge/HTML-black)
-![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/CSS-black) ![](https://img.shields.io/badge/MPI-black) 
+![](https://img.shields.io/badge/Python-black) ![](https://img.shields.io/badge/R-black) ![](https://img.shields.io/badge/Git-black) ![](https://img.shields.io/badge/HTML-black) ![](https://img.shields.io/badge/Javascript-black) ![](https://img.shields.io/badge/CSS-black) ![](https://img.shields.io/badge/MPI-black) 
 
 ## Github Stats
 
