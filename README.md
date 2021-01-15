@@ -32,7 +32,31 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 <!--- profile views -->
 ![](https://komarev.com/ghpvc/?username=krishnanj)
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/krishnanj/personalwebsite)
+<!--- visits ---->
+![](https://badges.pufler.dev/visits/krishnanj/personalwebsite)
+
+<!--- years ---->
+![](https://badges.pufler.dev/years/krishnanj)
+
+<!--- repos ---->
+![](https://badges.pufler.dev/repos/krishnanj)
+
+<!--- gists ---->
+![](https://badges.pufler.dev/gists/krishnanj)
+
+<!--- last updated --->
+![](https://badges.pufler.dev/updated/krishnanj)
+
+<!--- created ---->
+![](https://badges.pufler.dev/created/krishnanj/personalwebsite)
+
+<!--- yearly commits --->
+![](https://badges.pufler.dev/commits/yearly/krishnanj)
+
+
+
+
+
 
 
 
