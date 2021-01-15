@@ -1,10 +1,11 @@
-<!--- This is an HTML comment in Markdown -->
+<!--- header -->
 
 # Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
 
-
+<!---- network gif --->
 <img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
 
+<!---- general intro--->
 I am Jeyashree Krishnan, thanks for visiting my page!
 
 
@@ -16,6 +17,16 @@ I am Jeyashree Krishnan, thanks for visiting my page!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Scientific Expertise
+
+![](https://img.shields.io/badge/Computational-Sciences-blue) 
+![](https://img.shields.io/badge/Complex-Networks-blue) 
+![](https://img.shields.io/badge/Systems-Biology-blue) 
+![](https://img.shields.io/badge/Machine-Learning-blue)
+
+
+
 
 ## Languages and Tools
 
