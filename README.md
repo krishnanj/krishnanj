@@ -2,7 +2,7 @@
 # Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="200">
 
 <!---- network gif --->
-<img src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
+<img src="gh_avatar_me.png" width="1000">
 
 <!---- general intro--->
 I am Jeyashree Krishnan (JK for short), thanks for visiting my github page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me.   Feel free to get in touch with me on [Github](https://github.com/krishnanj) or [Linkedin](https://www.linkedin.com/in/jeyashreekrishnan/). 
