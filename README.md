@@ -1,5 +1,5 @@
 <!--- header -->
-# Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <img src="gh_avatar_me.png" width="200">
+# Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <img src="gh_avatar_me.png" height="100" width="200">
 
 <!---- network gif --->
 src="https://media.giphy.com/media/3oKIPpFhwsMNrRIjN6/giphy.gif" width="1000">
