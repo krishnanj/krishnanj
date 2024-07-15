@@ -2,14 +2,13 @@
 # Hey, I'm Jeyashree! (She/her)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; <img src="gh_avatar_me.png" height="100" width="80">
 
 <!---- general intro--->
-I am Jeyashree Krishnan (JK for short), thanks for visiting my GitHub page! I am a computational scientist living in Germany. Please visit my [official](https://www.combine.rwth-aachen.de/index.php/people-detail/jeyashree-krishnan) or [personal](http://www.jeyashreekrishnan.com/) website to know more about me. Feel free to get in touch with me on [GitHub](https://github.com/krishnanj) or [LinkedIn](https://www.linkedin.com/in/jeyashreekrishnan/).
-
-This page was largely inspired by [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme). I borrowed the networks GIF above from [GIPHY](https://media.giphy.com) 😎.
+I am Jeyashree Krishnan (JK), thanks for visiting my GitHub page! Computational scientist by background, I currently work on data science problems with different business and research use cases. Check out my [website](http://www.jeyashreekrishnan.com/) or the links above to learn more about me. 
 
 <!--- expertise --->
 ## Scientific Expertise
 
-![](https://img.shields.io/badge/Computational-Sciences-blue)    
+![](https://img.shields.io/badge/Data-Science-blue)    
+![](https://img.shields.io/badge/Numerical-Simulations-blue)    
 ![](https://img.shields.io/badge/Complex-Networks-blue)     
 ![](https://img.shields.io/badge/Systems-Biology-blue)     
 ![](https://img.shields.io/badge/Machine-Learning-blue)    
@@ -23,7 +22,9 @@ This page was largely inspired by [awesome-github-profile-readme](https://github
 <!--- some stats --->
 ## GitHub Stats
 
+<!--- 
 ![Jeyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnanj&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanj&langs_count=10&layout=compact&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
