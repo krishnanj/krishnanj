@@ -8,7 +8,7 @@ I am Jeyashree Krishnan (JK), thanks for visiting my GitHub page! Computational 
 ## Scientific Expertise
 
 ![](https://img.shields.io/badge/Machine-Learning-blue)    
-![](https://img.shields.io/badge/Technical-AI-Safety-blue)    
+![](https://img.shields.io/badge/AI-Safety-blue)    
 ![](https://img.shields.io/badge/Numerical-Simulations-blue)    
 ![](https://img.shields.io/badge/Computational-Biology-blue)     
  
